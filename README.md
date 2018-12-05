@@ -1,1 +1,4 @@
-# advent-of-code-2018
+# AdventOfCode2018
+
+**TODO: Add description**
+
